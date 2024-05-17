@@ -1,0 +1,47 @@
+.np-btn-smooth-var-1 {
+
+}
+.np-btn-form-submit {
+    background-color: var(--primary-color-1);
+    color: white;
+    padding: 8px 16px;
+    width: 100%;
+    outline: unset;
+    border: unset;
+}
+
+.np-btn-rounded {
+    background: var(--rounded-btn-color);
+    width: fit-content;
+    border-radius: 24px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+}
+
+.np-edit-btn-small-lg{
+    width: fit-content !important;
+    min-width: 120px;
+    color: #FFF;
+    column-gap: 8px;
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.np-btnupazilla-chip{
+    background-color: var( --button-decline-color);
+    color: white;
+    outline: unset;
+    border: unset;
+
+}
+
+.np-btn-cancel {
+    text-decoration : none;
+    color: white;
+}
